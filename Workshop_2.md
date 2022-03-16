@@ -17,7 +17,7 @@
 If you run into any issues before the workshop email info@mymi.org.au and put "Workshop 2 Setup" in the subject line. If you are still having trouble, demonstrators can help you on the day!
 
 ### Instal Required Software
-If you run into any issues, consult [this guide](https://code.visualstudio.com/docs/python/python-tutorial)
+If you run into any issues, consult the [reference documentation](https://code.visualstudio.com/docs/python/python-tutorial)
 
 1. Download VS Code from [here](https://code.visualstudio.com/download)
 
@@ -64,7 +64,6 @@ Helpful command line commands:
 - type ```cd``` followed by the folder name to move into a folder
 - hit tab to autocomplete file and folder names
 
-&nbsp;
 
 4. Type ```python3 -m venv .``` and hit enter to create the virtual environment. This should take less than 2 minutes.
 
@@ -73,7 +72,9 @@ Helpful command line commands:
 5. Activate the virtual environment 
 
 **Powershell (Windows):** ```Scripts\Activate.ps1```
+
 **Command Prompt (Windows):** ```Scripts\activate.bat```
+
 **Terminal (Mac):** ```source bin/activate```
 
 If you want to exit the virtual environment simply type ```deactivate```
