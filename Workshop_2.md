@@ -3,12 +3,21 @@
 
 # Table of Contents
 1. [Introduction](#Introduction)
+
 2. [Setup](#Setup)
+    
+    2.1. [Install Required Software](#Install-Required-Software)
+
 3. [Key Concepts + Basic Examples](#Key-Concepts-+-Basic-Examples)
+
 4. [Ideation](#Ideation)
+
 5. [Backend Code](#Backend-Code)
+
 6. [GUI - Frontend Code](#GUI---Frontend-Code)
+
 7. [Integrate GUI with Backend](#Integrate-GUI-with-Backend)
+
 8. [Export as Standalone Application](#Export-as-Standalone-Application)
 
 ## Introduction
@@ -16,7 +25,7 @@
 ## Setup
 If you run into any issues before the workshop email info@mymi.org.au and put "Workshop 2 Setup" in the subject line. If you are still having trouble, demonstrators can help you on the day!
 
-### Instal Required Software
+### Install Required Software
 If you run into any issues, consult the [reference documentation](https://code.visualstudio.com/docs/python/python-tutorial)
 
 1. Download VS Code from [here](https://code.visualstudio.com/download)
