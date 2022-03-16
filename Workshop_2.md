@@ -7,6 +7,7 @@
 2. [Setup](#Setup)
     
     2.1. [Install Required Software](#Install-Required-Software)
+    
     2.2. [Create a Virtual Environment](#Create-a-Virtual-Environment)
 
 3. [Key Concepts + Basic Examples](#Key-Concepts-+-Basic-Examples)
