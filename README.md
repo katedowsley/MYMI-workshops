@@ -1,4 +1,4 @@
-# MYMI-workshops
+# MYMI Workshops 2022
 
 [Workshop 1: 3D Designing for Accessibility and Aesthetics](./Workshop_1.md)
 
