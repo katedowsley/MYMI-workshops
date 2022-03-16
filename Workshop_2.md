@@ -19,6 +19,19 @@
 
 ## Setup
 
+//Work in progress
+
+1. Install VS code and python for your os as described here: https://code.visualstudio.com/docs/python/python-tutorial
+
+    1.1 Install VS code
+  
+    1.2 Install Python Extension in VS code
+   
+    1.3 Install a Python Interpreter
+2. Create a Virtual Envrionment. Activate virtual environment.
+3. Download requirements.txt and install required 
+      pip install -r requirements.txt
+
 ## Key Concepts + Basic Examples
 
 ## Ideation
