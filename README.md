@@ -1,1 +1,7 @@
 # MYMI-workshops
+
+## Setup
+
+testing
+
+## 
