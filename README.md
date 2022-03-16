@@ -4,4 +4,4 @@
 
 [Workshop 2: Using Python to Create a Healthcare Application](./Workshop_2.md)
 
-[Workshop 3: Introduction to Microcontrollers and Signal Processing](./Workshop_3.md)
+[Workshop 3: Introduction to Microcontrollers for Processing Biological Signals](./Workshop_3.md)
