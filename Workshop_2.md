@@ -53,17 +53,19 @@ Install the latest Python Interpreter by typing the following line terminal: ```
 
 ### Create a Virtual Environment
 
-Why? Virtual environments keep things tidy! It creates an isolated environment for your project so that th aksfjalksjf skfj / work in progress
+Why? Virtual environments keep things tidy! It creates an isolated environment for your project so that you don't run into issues with using different versions of Python libraries in future projects. It's good practice to create a new virtual environment for each new Python project.
 
 Read more about virtual environments [here](https://docs.python.org/3/library/venv.html)
 
 1. Create a folder on your computer and call it "MYMI_Workshop_2"
 
-2. Open a command line program
+2. Open a command line program and install the package for creating virtual envrionments. This might take a few minutes
 
 **Windows:** Open Command Prompt or Powershell
 
 **Mac:** Open Terminal
+
+```pip install venv```
 
 3. In Terminal/Command Prompt/Powershell, navigate to the folder that you created using the command ```cd /path_to_folder/MYMI_Workshop_2``` 
 
