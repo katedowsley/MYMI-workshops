@@ -10,10 +10,6 @@
 6. [GUI - Frontend Code](#GUI---Frontend-Code)
 7. [Integrate GUI with Backend](#Integrate-GUI-with-Backend)
 8. [Export as Standalone Application](#Export-as-Standalone-Application)
-    
-    4.1. [Processing values](#Processing-values)
-    
-    4.2. [Calibration](#Calibration)
 
 ## Introduction
 
@@ -28,9 +24,11 @@
     1.2 Install Python Extension in VS code
    
     1.3 Install a Python Interpreter
-2. Create a Virtual Envrionment. Activate virtual environment.
-3. Download requirements.txt and install required 
+(2. Create a Virtual Envrionment. Activate virtual environment)
+3. Download requirements.txt and install required libraries
+
       pip install -r requirements.txt
+4. 
 
 ## Key Concepts + Basic Examples
 
