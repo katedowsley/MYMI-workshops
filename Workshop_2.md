@@ -78,17 +78,19 @@ Helpful command line commands:
 - hit tab to autocomplete file and folder names
 
 
-4. Type ```python3 -m venv .``` and hit enter to create the virtual environment. This should take less than 2 minutes.
+4. Type ```python3 -m venv ./venv``` and hit enter to create the virtual environment. This should take less than 2 minutes.
 
 &nbsp;
 
 5. Activate the virtual environment 
 
+Fix windows stuff!!!
+
 **Powershell (Windows):** ```Scripts\Activate.ps1```
 
 **Command Prompt (Windows):** ```Scripts\activate.bat```
 
-**Terminal (Mac):** ```source bin/activate```
+**Terminal (Mac):** ```source venv/bin/activate```
 
 If you want to exit the virtual environment simply type ```deactivate```
 
@@ -112,8 +114,11 @@ Type ```pip install -m requirements.txt``` in your command line program.
 This should take sdkfjlasjdf minutes
 
 ### Check your setup
-1. Open VS Code
-2. Click 
+1. Open the folder in VS Code and select interpreter as the virtual environment. In mac shift, command, P --> select interpreter:
+
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/101687676/160950580-e0abf162-2b03-4e10-9982-1fb209dc5c66.png">
+
+3. Click 
 
 ## Key Concepts + Basic Examples
 
