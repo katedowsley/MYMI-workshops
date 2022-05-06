@@ -2,9 +2,9 @@
 1. [Introduction](#Introduction)
 2. [Setting up arduino](#SETTING-UP-ARDUINO)
 
-  2.1 [Windows](#WINDOWS)
+    2.1 [Windows](#WINDOWS)
   
-  2.2 [MAC OS X](#MAC-OS-X)
+    2.2 [MAC OS X](#MAC-OS-X)
   
 3. [Code](#CODE)
 
@@ -20,7 +20,7 @@ Equipment Required: Arduino board and cable (provided) and windows/Mac OS X comp
 
 To start programming on the arduino board we must first download the software which can be found on this website [here](https://www.arduino.cc/en/software).
 
-# WINDOWS:
+## WINDOWS:
 1.click the Windows to go to the download page
 
 <img src="https://user-images.githubusercontent.com/101861606/167060887-3daed9c0-9929-45d8-b433-5a258fafbaaa.png" width="500"/>
@@ -30,7 +30,7 @@ To start programming on the arduino board we must first download the software wh
 <img src="https://user-images.githubusercontent.com/101861606/167061052-5ff56238-d6bd-4d4a-a754-0ddbd2609f2e.png" width="500"/>
 
 
-# MAC OS X:
+## MAC OS X:
 
 1. click the Mac OS X to go to the download page
 
