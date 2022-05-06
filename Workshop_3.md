@@ -1,7 +1,7 @@
 # Table of Contents
 1. [Introduction](#Introduction)
-2. Setting up arduino(#SETTING-UP-ARDUINO)
-2. Code(#CODE)
+2. [Setting up arduino](#SETTING-UP-ARDUINO)
+2. [Code](#CODE)
 
 ## INTRODUCTION
 Hello, the focus of this workshop is to allow you to develop an understanding on heart rate monitors using easy access hardware and software.
