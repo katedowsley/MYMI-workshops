@@ -12,8 +12,8 @@
 Hello, the focus of this workshop is to allow you to develop an understanding on heart rate monitors using easy access hardware and software.
 
 We will need:
-* 1 x Arduino Board
-* 1 x Breadboard
+* 1 x Arduino Board [here](![image](https://user-images.githubusercontent.com/101861606/167063696-1d75e019-7662-4f53-a196-f0e64e2494af.png)
+* 1 x Breadboard [here](![image](https://user-images.githubusercontent.com/101861606/167063735-be17ebe5-b8c8-402c-8f42-9a4bb95ed988.png)
 * 1 x LCD Display
 * 1 x Heart Rate Sensor
 * 1 x Windows or MAC Computer
