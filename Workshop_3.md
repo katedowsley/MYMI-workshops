@@ -1,11 +1,15 @@
+# Table of Contents
+1. [Introduction](#Introduction)
+2. Setting up arduino(#SETTING-UP-ARDUINO)
+2. Code(#CODE)
+
+## INTRODUCTION
 Hello, the focus of this workshop is to allow you to develop an understanding on heart rate monitors using easy access hardware and software.
 
-1. Setting up arduino
-2. Code
-3. Monitor
 
 
-1. SETTING UP ARDUINO
+
+## SETTING UP ARDUINO
 
 Equipment Required: Arduino board and cable (provided) and windows/Mac OS X computer.
 
