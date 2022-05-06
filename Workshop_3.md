@@ -21,16 +21,18 @@ Windows:
 <img src="https://user-images.githubusercontent.com/101861606/167060887-3daed9c0-9929-45d8-b433-5a258fafbaaa.png" width="500"/>
 
 2. click "Just Download"
-![image](https://user-images.githubusercontent.com/101861606/167061052-5ff56238-d6bd-4d4a-a754-0ddbd2609f2e.png)
 
+<img src="https://user-images.githubusercontent.com/101861606/167061052-5ff56238-d6bd-4d4a-a754-0ddbd2609f2e.png" width="500"/>
 
 
 Mac OS X:
 
 1. click the Mac OS X to go to the download page
-![image](https://user-images.githubusercontent.com/101861606/167060903-e2f5839b-71b9-47f7-a6ba-d1d12abd22cd.png)
+
+<img src="https://user-images.githubusercontent.com/101861606/167060903-e2f5839b-71b9-47f7-a6ba-d1d12abd22cd.png" width="500"/>
 
 2. click "Just Download"
-![image](https://user-images.githubusercontent.com/101861606/167061052-5ff56238-d6bd-4d4a-a754-0ddbd2609f2e.png)
+
+<img src="https://user-images.githubusercontent.com/101861606/167061052-5ff56238-d6bd-4d4a-a754-0ddbd2609f2e.png" width="500"/>
 
 
