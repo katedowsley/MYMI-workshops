@@ -1,9 +1,12 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [Setting up arduino](#SETTING-UP-ARDUINO)
+
   2.1 [Windows](#WINDOWS)
-  2.2 [MAC OS X](#MAC OS X)
-4. [Code](#CODE)
+  
+  2.2 [MAC OS X](#MAC-OS-X)
+  
+3. [Code](#CODE)
 
 ## INTRODUCTION
 Hello, the focus of this workshop is to allow you to develop an understanding on heart rate monitors using easy access hardware and software.
