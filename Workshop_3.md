@@ -17,6 +17,7 @@ To start programming on the arduino board we must first download the software wh
 
 Windows:
 1.click the Windows to go to the download page
+
 <img src="https://user-images.githubusercontent.com/101861606/167060887-3daed9c0-9929-45d8-b433-5a258fafbaaa.png" width="500"/>
 
 2. click "Just Download"
