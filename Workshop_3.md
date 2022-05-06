@@ -39,7 +39,7 @@ To start programming on the arduino board we must first download the software wh
 
 Note: If the application has a pop up warning just run the application :D
 
-5. The application should look something like this and youre ready to start coding
+5. The application should look something like this and you're ready to start coding
 
 <img src="https://user-images.githubusercontent.com/101861606/167062987-79732734-2412-4932-bdb5-fa844aaf3157.png" width="500"/>
 
@@ -54,4 +54,5 @@ Note: If the application has a pop up warning just run the application :D
 
 <img src="https://user-images.githubusercontent.com/101861606/167061052-5ff56238-d6bd-4d4a-a754-0ddbd2609f2e.png" width="500"/>
 
+3. 
 
