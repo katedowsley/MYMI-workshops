@@ -14,8 +14,8 @@ Hello, the focus of this workshop is to allow you to develop an understanding on
 We will need:
 * 1 x Arduino Board [here](https://user-images.githubusercontent.com/101861606/167063696-1d75e019-7662-4f53-a196-f0e64e2494af.png)
 * 1 x Breadboard [here](https://user-images.githubusercontent.com/101861606/167063735-be17ebe5-b8c8-402c-8f42-9a4bb95ed988.png)
-* 1 x LCD Display
-* 1 x Heart Rate Sensor
+* 1 x LCD Display [here](https://user-images.githubusercontent.com/101861606/167063832-8c977ff7-4ff4-496c-85d3-3794f7653f5d.png)
+* 1 x Heart Rate Sensor [here](https://user-images.githubusercontent.com/101861606/167064179-56b39b94-0df6-45ed-b9ce-6df8e27ada62.png)
 * 1 x Windows or MAC Computer
 
 
