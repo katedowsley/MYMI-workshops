@@ -13,10 +13,9 @@ Hello, the focus of this workshop is to allow you to develop an understanding on
 
 Equipment Required: Arduino board and cable (provided) and windows/Mac OS X computer.
 
-To start programming on the arduino board we must first download the software which can be found on this website https://www.arduino.cc/en/software. 
+To start programming on the arduino board we must first download the software which can be found on this website [here](https://www.arduino.cc/en/software).
 
 Windows:
-
 1.click the Windows to go to the download page
 ![image](https://user-images.githubusercontent.com/101861606/167060887-3daed9c0-9929-45d8-b433-5a258fafbaaa.png)
 
