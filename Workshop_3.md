@@ -74,6 +74,8 @@ Note: If the application has a pop up warning just run the application :D
 
 ### Breadboard
 
+<img src="https://user-images.githubusercontent.com/101861606/167795669-86081d6f-e1cc-4860-848f-cf7a426ebd3e.png" width="500"/>
+
 
 ### Liquid Crystal Displays
 <img src="https://user-images.githubusercontent.com/101861606/167778638-60ffabc2-c500-4e69-a027-38ba55070f80.png" width="500"/>
@@ -83,6 +85,7 @@ Note: If the application has a pop up warning just run the application :D
 ### Heart Rate Sensor (KY-039 HEARTBEAT SENSOR)
 
 Below is an image of the type of heart sensor we will be using today. There are better vairents of this device, however, they are more expensive as they produce more precise and accurate data and overall use higher quality material. For this workshop, it is enough to understand the basics of how this device works.
+
 <img src="https://user-images.githubusercontent.com/101861606/167776655-0c83e0f9-67fc-4b1c-8dea-c31e38481e8d.png" width="500"/>
 
 The internal schematic of the device is shown below
