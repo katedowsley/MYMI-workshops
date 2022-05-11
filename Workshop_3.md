@@ -70,6 +70,16 @@ Note: If the application has a pop up warning just run the application :D
 ### Arduino Board
 
 
+### Breadboard
+
+### LCD Display
+
+
+
+### Heart Rate Sensor (KY-039 HEARTBEAT SENSOR)
+<img src="https://user-images.githubusercontent.com/101861606/167776655-0c83e0f9-67fc-4b1c-8dea-c31e38481e8d.png" width="500"/>
+
+
 ## CODE
 
 
