@@ -70,17 +70,29 @@ Note: If the application has a pop up warning just run the application :D
 ## Understanding The Components
 
 ### Arduino Board
+This is a basic arduino board.
+
+Power and Ground pins:
+
+Analogue pins:
+
+Digital pins:
+
+<img src="https://user-images.githubusercontent.com/101861606/167796552-cd00827c-0f71-4a00-9d09-5cc2cc3ceb93.png" width="500"/>
+
 
 
 ### Breadboard
 
-Horizontals
+Horizontals: The horisonal pin holes are all connected and can be seen as nodes in a circuit.
 
 <img src="https://user-images.githubusercontent.com/101861606/167795669-86081d6f-e1cc-4860-848f-cf7a426ebd3e.png" width="500"/>
 
-Verticals
+Verticals: The vertical pin holes are all connected and are usually used for power supply and ground.
 
 <img src="https://user-images.githubusercontent.com/101861606/167795917-436a46da-bda5-4dad-bad1-492565bae441.png" width="500"/>
+
+
 
 ### Liquid Crystal Displays
 <img src="https://user-images.githubusercontent.com/101861606/167778638-60ffabc2-c500-4e69-a027-38ba55070f80.png" width="500"/>
