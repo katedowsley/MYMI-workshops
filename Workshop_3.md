@@ -67,7 +67,7 @@ Note: If the application has a pop up warning just run the application :D
 
 ## Understanding The Components
 
-# Arduino Board
+### Arduino Board
 
 
 ## CODE
