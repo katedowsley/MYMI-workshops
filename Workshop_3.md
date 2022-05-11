@@ -74,8 +74,13 @@ Note: If the application has a pop up warning just run the application :D
 
 ### Breadboard
 
+Horizontals
+
 <img src="https://user-images.githubusercontent.com/101861606/167795669-86081d6f-e1cc-4860-848f-cf7a426ebd3e.png" width="500"/>
 
+Verticals
+
+<img src="https://user-images.githubusercontent.com/101861606/167795917-436a46da-bda5-4dad-bad1-492565bae441.png" width="500"/>
 
 ### Liquid Crystal Displays
 <img src="https://user-images.githubusercontent.com/101861606/167778638-60ffabc2-c500-4e69-a027-38ba55070f80.png" width="500"/>
@@ -105,6 +110,8 @@ note: make sure check tools -> board and port
 ## Sources used
 Arduino Syntax: http://engineering.nyu.edu/gk12/amps-cbri/pdf/ArduinoBooks/Arduino%20Programming%20Notebook.pdf
 Arduino Basics: https://www.youtube.com/watch?v=nL34zDTPkcs
+
+Breadboard: https://computers.tutsplus.com/tutorials/how-to-use-a-breadboard-and-build-a-led-circuit--mac-54746
 
 LCD: https://www.youtube.com/watch?v=wEbGhYjn4QI
 
