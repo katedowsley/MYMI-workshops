@@ -89,8 +89,11 @@ Note: If the application has a pop up warning just run the application :D
 
 
 ## Sources used
-https://www.youtube.com/watch?v=wEbGhYjn4QI
-https://electropeak.com/learn/interfacing-ky-039-finger-heartbeat-measuring-sensor-module-with-arduino/#:~:text=Step%202%3A%20Code-,KY%2D039%20Heartbeat%20Sensor%20Module%20Features,through%20the%20analog%20output%20pin.
+Arduino syntax: http://engineering.nyu.edu/gk12/amps-cbri/pdf/ArduinoBooks/Arduino%20Programming%20Notebook.pdf
+
+LCD: https://www.youtube.com/watch?v=wEbGhYjn4QI
+
+Heart sensor: https://electropeak.com/learn/interfacing-ky-039-finger-heartbeat-measuring-sensor-module-with-arduino/#:~:text=Step%202%3A%20Code-,KY%2D039%20Heartbeat%20Sensor%20Module%20Features,through%20the%20analog%20output%20pin.
 
 
 
