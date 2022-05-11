@@ -84,12 +84,14 @@ Note: If the application has a pop up warning just run the application :D
 
 
 ## CODE
+note: make sure check tools -> board and port
 
 
 
 
 ## Sources used
-Arduino syntax: http://engineering.nyu.edu/gk12/amps-cbri/pdf/ArduinoBooks/Arduino%20Programming%20Notebook.pdf
+Arduino Syntax: http://engineering.nyu.edu/gk12/amps-cbri/pdf/ArduinoBooks/Arduino%20Programming%20Notebook.pdf
+Arduino Basics: https://www.youtube.com/watch?v=nL34zDTPkcs
 
 LCD: https://www.youtube.com/watch?v=wEbGhYjn4QI
 
