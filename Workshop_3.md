@@ -8,6 +8,7 @@
 
 3. [Understanding The Components](#Understanding-The-Components)
 4. [Code](#CODE)
+5. [Sources used](#Sources used)
 
 ## INTRODUCTION
 Hello, the focus of this workshop is to allow you to develop an understanding on heart rate monitors using easy access hardware and software.
@@ -15,9 +16,10 @@ Hello, the focus of this workshop is to allow you to develop an understanding on
 We will need:
 * 1 x Arduino Board [here](https://user-images.githubusercontent.com/101861606/167063696-1d75e019-7662-4f53-a196-f0e64e2494af.png)
 * 1 x Breadboard [here](https://user-images.githubusercontent.com/101861606/167063735-be17ebe5-b8c8-402c-8f42-9a4bb95ed988.png)
-* 1 x LCD Display [here](https://user-images.githubusercontent.com/101861606/167063832-8c977ff7-4ff4-496c-85d3-3794f7653f5d.png)
+* 1 x Liquid Crystal Displays (LCDs) [here](https://user-images.githubusercontent.com/101861606/167063832-8c977ff7-4ff4-496c-85d3-3794f7653f5d.png)
 * 1 x Heart Rate Sensor (KY-039 HEARTBEAT SENSOR) [here](https://user-images.githubusercontent.com/101861606/167064179-56b39b94-0df6-45ed-b9ce-6df8e27ada62.png)
 * 1 x Windows or MAC Computer
+* 10 x Wires
 
 
 ## SETTING UP ARDUINO
@@ -72,7 +74,8 @@ Note: If the application has a pop up warning just run the application :D
 
 ### Breadboard
 
-### LCD Display
+### Liquid Crystal Displays
+<img src="https://user-images.githubusercontent.com/101861606/167778638-60ffabc2-c500-4e69-a027-38ba55070f80.png" width="500"/>
 
 
 
@@ -85,6 +88,9 @@ Note: If the application has a pop up warning just run the application :D
 
 
 
+## Sources used
+https://www.youtube.com/watch?v=wEbGhYjn4QI
+https://electropeak.com/learn/interfacing-ky-039-finger-heartbeat-measuring-sensor-module-with-arduino/#:~:text=Step%202%3A%20Code-,KY%2D039%20Heartbeat%20Sensor%20Module%20Features,through%20the%20analog%20output%20pin.
 
 
 
