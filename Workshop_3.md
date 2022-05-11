@@ -121,7 +121,9 @@ note: make sure check tools -> board and port
 
 ## Sources used
 Arduino Syntax: http://engineering.nyu.edu/gk12/amps-cbri/pdf/ArduinoBooks/Arduino%20Programming%20Notebook.pdf
-Arduino Basics: https://www.youtube.com/watch?v=nL34zDTPkcs
+Arduino Basics: 
+* https://www.youtube.com/watch?v=nL34zDTPkcs
+* https://arduinotogo.com/2016/09/09/chapter-3-arduino-schematic/
 
 Breadboard: https://computers.tutsplus.com/tutorials/how-to-use-a-breadboard-and-build-a-led-circuit--mac-54746
 
