@@ -5,8 +5,9 @@
     2.1 [Windows](#WINDOWS)
   
     2.2 [MAC OS X](#MAC-OS-X)
-  
-3. [Code](#CODE)
+
+3. [Understanding The Components](#Understanding-The-Components)
+4. [Code](#CODE)
 
 ## INTRODUCTION
 Hello, the focus of this workshop is to allow you to develop an understanding on heart rate monitors using easy access hardware and software.
@@ -15,7 +16,7 @@ We will need:
 * 1 x Arduino Board [here](https://user-images.githubusercontent.com/101861606/167063696-1d75e019-7662-4f53-a196-f0e64e2494af.png)
 * 1 x Breadboard [here](https://user-images.githubusercontent.com/101861606/167063735-be17ebe5-b8c8-402c-8f42-9a4bb95ed988.png)
 * 1 x LCD Display [here](https://user-images.githubusercontent.com/101861606/167063832-8c977ff7-4ff4-496c-85d3-3794f7653f5d.png)
-* 1 x Heart Rate Sensor [here](https://user-images.githubusercontent.com/101861606/167064179-56b39b94-0df6-45ed-b9ce-6df8e27ada62.png)
+* 1 x Heart Rate Sensor (KY-039 HEARTBEAT SENSOR) [here](https://user-images.githubusercontent.com/101861606/167064179-56b39b94-0df6-45ed-b9ce-6df8e27ada62.png)
 * 1 x Windows or MAC Computer
 
 
@@ -62,6 +63,12 @@ Note: If the application has a pop up warning just run the application :D
 3. The application should be ready to go. Open the application. It should look something like the below image. You're ready to start coding!
 
 <img src="https://user-images.githubusercontent.com/101861606/167062987-79732734-2412-4932-bdb5-fa844aaf3157.png" width="500"/>
+
+
+## Understanding The Components
+
+# Arduino Board
+
 
 ## CODE
 
