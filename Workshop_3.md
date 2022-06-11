@@ -97,7 +97,7 @@ Verticals: The vertical pin holes are all connected and are usually used for pow
 ### Liquid Crystal Displays
 <img src="https://user-images.githubusercontent.com/101861606/167778638-60ffabc2-c500-4e69-a027-38ba55070f80.png" width="500"/>
 
-Pins:
+Pins:  
 1: Ground  
 2: Voltage in  
 3: Brightness control  
