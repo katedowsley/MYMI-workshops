@@ -98,8 +98,8 @@ Verticals: The vertical pin holes are all connected and are usually used for pow
 <img src="https://user-images.githubusercontent.com/101861606/167778638-60ffabc2-c500-4e69-a027-38ba55070f80.png" width="500"/>
 
 Pins:
-1: Ground
-2: Voltage in
+1: Ground </n>
+2: Voltage in <"/n">
 3: Brightness control
 4: Register select pin
 5: Read/Write pin
