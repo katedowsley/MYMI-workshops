@@ -125,6 +125,7 @@ The Infrared LED emits infrared light which will be captured by the photo diode 
 
 ## CODE
 Note: make sure check tools -> board and port
+
 Basics on running code: Make sure the file is saved -> verify witht the tick at the top left hand corner -> upload the code to the arduino which is the arrow pointing to the right (next to the tick).
 
 
