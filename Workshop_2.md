@@ -80,7 +80,7 @@ Download the [requirements.txt](./requirements.txt) file and save it in the "MYM
 
 Type ```pip install -r requirements.txt``` in your command line program.
 
-This should take less than 2 minutes
+This should take less than 4 minutes
 
 8. Download the interactive [jupyter lab file](./MYMI Workshop 2.ipynb) for the workshop
 
