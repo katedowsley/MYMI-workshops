@@ -1,42 +1,9 @@
-# Workshop 2: Using Python to Create a Healthcare Application
-
-
-# Table of Contents
-1. [Introduction](#Introduction)
-
-2. [Setup](#Setup)
-    
-    2.1. [Install Required Software](#Install-Required-Software)
-    
-    2.2. [Create a Virtual Environment](#Create-a-Virtual-Environment)
-
-3. [Key Concepts + Basic Examples](#Key-Concepts-+-Basic-Examples)
-
-4. [Ideation](#Ideation)
-
-5. [Backend Code](#Backend-Code)
-
-6. [GUI - Frontend Code](#GUI---Frontend-Code)
-
-7. [Integrate GUI with Backend](#Integrate-GUI-with-Backend)
-
-8. [Export as Standalone Application](#Export-as-Standalone-Application)
-
-## Introduction
+# Workshop 2: Using Python to Create a Healthcare Application - Set Up Instructions
 
 ## Setup
 If you run into any issues before the workshop email info@mymi.org.au and put "Workshop 2 Setup" in the subject line. If you are still having trouble, demonstrators can help you on the day!
 
-### Install Required Software
-If you run into any issues, consult the [reference documentation](https://code.visualstudio.com/docs/python/python-tutorial)
-
-1. Download VS Code from [here](https://code.visualstudio.com/download)
-
-2. Install the Python Extension in VS Code from the Extensions Marketplace tab as shown below
-
-<img width="393" alt="image" src="https://user-images.githubusercontent.com/101687676/158518484-994f8d23-fbd1-47f0-8877-b3de44007840.png">
-  
-3. Install a Python Interpreter
+### Install Python
 
 **Windows:** Install from here https://www.python.org/downloads/
 
@@ -77,18 +44,20 @@ Helpful command line commands:
 - type ```cd``` followed by the folder name to move into a folder
 - hit tab to autocomplete file and folder names
 
+&nbsp;
 
 4. Type ```python3 -m venv ./venv``` and hit enter to create the virtual environment. This should take less than 2 minutes.
 
 &nbsp;
 
+
+
 5. Activate the virtual environment 
 
-Fix windows stuff!!!
 
-**Powershell (Windows):** ```Scripts\Activate.ps1```
+**Powershell (Windows):** ```Scripts\venv\Activate.ps1```
 
-**Command Prompt (Windows):** ```Scripts\activate.bat```
+**Command Prompt (Windows):** ```Scripts\venv\activate.bat```
 
 **Terminal (Mac):** ```source venv/bin/activate```
 
@@ -100,7 +69,7 @@ If you want to exit the virtual environment simply type ```deactivate```
 - make sure that the virtual environment is activated. The terminal line should now have (MYMI_Workshop_2) at the start of the line as shown below
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/101687676/158524038-4099eae6-d252-4efe-a7b7-5f683376e70c.png">
 
-- Type ```python``` then hit enter. Ther version number should be at least 3.8
+- Type ```python``` then hit enter. The version number should be at least 3.8
 - Type ```exit()``` and hit enter
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/101687676/158524115-513783b1-b1af-4f7e-aeb1-24168bfed261.png">
 
@@ -111,23 +80,10 @@ Download the [requirements.txt](./requirements.txt) file and save it in the "MYM
 
 Type ```pip install -m requirements.txt``` in your command line program.
 
-This should take sdkfjlasjdf minutes
+This should take approximately 5 minutes
 
-### Check your setup
-1. Open the folder in VS Code and select interpreter as the virtual environment. In mac shift, command, P --> select interpreter:
+8. Download the interactive [jupyter lab file](./MYMI Workshop 2.ipynb) for the workshop
 
-<img width="596" alt="image" src="https://user-images.githubusercontent.com/101687676/160950580-e0abf162-2b03-4e10-9982-1fb209dc5c66.png">
-
-3. Click 
-
-## Key Concepts + Basic Examples
-
-## Ideation
-
-## Backend Code
-
-## GUI - Frontend Code
-
-## Integrate GUI with Backend
-
-## Export as Standalone Application
+9. Activate the virtual environment (step 5) and open jupyter notebook using the following line:
+```jupyter notebook```
+This will open a tab in your web browser
