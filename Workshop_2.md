@@ -78,9 +78,9 @@ If you want to exit the virtual environment simply type ```deactivate```
 
 Download the [requirements.txt](./requirements.txt) file and save it in the "MYMI_Workshop_2" folder
 
-Type ```pip install -m requirements.txt``` in your command line program.
+Type ```pip install -r requirements.txt``` in your command line program.
 
-This should take approximately 5 minutes
+This should take less than 2 minutes
 
 8. Download the interactive [jupyter lab file](./MYMI Workshop 2.ipynb) for the workshop
 
