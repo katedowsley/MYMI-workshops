@@ -34,7 +34,7 @@ Read more about virtual environments [here](https://docs.python.org/3/library/ve
 
 ```pip install venv```
 
-3. In Terminal/Command Prompt/Powershell, navigate to the folder that you created using the command ```cd /path_to_folder/MYMI_Workshop_2``` 
+3. In Terminal/Command Prompt/Powershell, navigate to the folder that you created using the command ```cd /path_to_folder/MYMI_Workshop_1``` 
 
 See the example below using Terminal where the MYMI_Workshop_1 folder is saved on the desktop:
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/101687676/158522102-42942dfd-a5f7-4fe4-8ae6-a46b6c6e56eb.png">
