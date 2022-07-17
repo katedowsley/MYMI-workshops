@@ -1,4 +1,0 @@
-PySimpleGUI
-numpy
-pandas
-jupyter
