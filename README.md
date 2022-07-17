@@ -1,7 +1,6 @@
 # MYMI Workshops 2022
 
-[Workshop 1: 3D Designing for Accessibility and Aesthetics](./Workshop_1.md)
 
-[Workshop 2: Using Python to Create a Healthcare Application](./Workshop_2.md)
+[Workshop 1: Using Python to Create a Healthcare Application](./Workshop_1.md)
 
-[Workshop 3: Introduction to Microcontrollers for Processing Biological Signals](./Workshop_3.md)
+[Workshop 2: Introduction to Microcontrollers for Processing Biological Signals](./Workshop_2.md)
