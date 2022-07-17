@@ -1,4 +1,4 @@
-# Workshop 2: Using Python to Create a Healthcare Application - Set Up Instructions
+# Workshop 1: Using Python to Create a Healthcare Application - Set Up Instructions
 
 ## Setup
 If you run into any issues before the workshop email info@mymi.org.au and put "Workshop 2 Setup" in the subject line. If you are still having trouble, demonstrators can help you on the day!
@@ -49,7 +49,6 @@ Helpful command line commands:
 4. Type ```python3 -m venv ./venv``` and hit enter to create the virtual environment. This should take less than 2 minutes.
 
 &nbsp;
-
 
 
 5. Activate the virtual environment 
