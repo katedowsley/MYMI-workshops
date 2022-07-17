@@ -1,7 +1,7 @@
 # Workshop 1: Using Python to Create a Healthcare Application - Set Up Instructions
 
 ## Setup
-If you run into any issues before the workshop email info@mymi.org.au and put "Workshop 2 Setup" in the subject line. If you are still having trouble, demonstrators can help you on the day!
+If you run into any issues before the workshop email info@mymi.org.au and put "Workshop 1 Setup" in the subject line. If you are still having trouble, demonstrators can help you on the day!
 
 ### Install Python
 
@@ -24,7 +24,7 @@ Why? Virtual environments keep things tidy! It creates an isolated environment f
 
 Read more about virtual environments [here](https://docs.python.org/3/library/venv.html)
 
-1. Create a folder on your computer and call it "MYMI_Workshop_2"
+1. Create a folder on your computer and call it "MYMI_Workshop_1"
 
 2. Open a command line program and install the package for creating virtual envrionments. This might take a few minutes
 
@@ -36,7 +36,7 @@ Read more about virtual environments [here](https://docs.python.org/3/library/ve
 
 3. In Terminal/Command Prompt/Powershell, navigate to the folder that you created using the command ```cd /path_to_folder/MYMI_Workshop_2``` 
 
-See the example below using Terminal where the MYMI_Workshop_2 folder is saved on the desktop:
+See the example below using Terminal where the MYMI_Workshop_1 folder is saved on the desktop:
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/101687676/158522102-42942dfd-a5f7-4fe4-8ae6-a46b6c6e56eb.png">
 
 Helpful command line commands:
@@ -81,8 +81,13 @@ Type ```pip install -r requirements.txt``` in your command line program.
 
 This should take less than 4 minutes
 
-8. Download the interactive [jupyter lab file](./MYMI Workshop 2.ipynb) for the workshop
+### Get ready for the workshop
 
-9. Activate the virtual environment (step 5) and open jupyter notebook using the following line:
+1. Download the [zip file](./Workshop1_files) which contains an interactive code file and a sample csv file 
+
+2. Activate the virtual environment (step 5 of creating a virtual environment) 
+
+4. Open jupyter notebook using the following line:
+
 ```jupyter notebook```
-This will open a tab in your web browser
+This will open a tab in your web browser where we will run the code
