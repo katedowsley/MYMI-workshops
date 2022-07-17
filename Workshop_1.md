@@ -75,7 +75,7 @@ If you want to exit the virtual environment simply type ```deactivate```
 
 7. Install the required packages
 
-Download the [requirements.txt](./Workshop1/requirements.txt) file and save it in the "MYMI_Workshop_2" folder
+Download the [requirements.txt](./Workshop 1/requirements.txt) file and save it in the "MYMI_Workshop_2" folder
 
 Type ```pip install -r requirements.txt``` in your command line program.
 
@@ -83,7 +83,7 @@ This should take less than 4 minutes
 
 ### Get ready for the workshop
 
-1. Download the [zip file](./Workshop1/Workshop1_files.zip) which contains an interactive code file and a sample csv file 
+1. Download the [zip file](./Workshop 1/Workshop1_files.zip) which contains an interactive code file and a sample csv file 
 
 2. Activate the virtual environment (step 5 of creating a virtual environment) 
 
