@@ -83,7 +83,7 @@ This should take less than 4 minutes
 
 ### Get ready for the workshop
 
-1. Download the [zip file](./Workshop_1/Workshop1_files.zip) which contains an interactive code file and a sample csv file 
+1. Download the [zip file](./Workshop_1/Workshop1_files.zip) which contains an interactive code file and a sample csv file and save the contents into the MYMI_WORKSHOP_1 Folder on your computer
 
 2. Activate the virtual environment (step 5 of creating a virtual environment) 
 
