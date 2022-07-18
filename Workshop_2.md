@@ -1,25 +1,12 @@
 # Table of Contents
-1. [Introduction](#Introduction)
-2. [Setting up arduino](#SETTING-UP-ARDUINO)
+1. Introduction
+2. Setting up arduino
 
-    2.1 [Windows](#WINDOWS)
+    2.1 Windows
   
-    2.2 [MAC OS X](#MAC-OS-X)
-
-3. [Understanding The Components](#Understanding-The-Components)
-4. [Code](#CODE)
-5. [Sources used](#Sources used)
-
-## INTRODUCTION
-Hello, the focus of this workshop is to allow you to develop an understanding on heart rate monitors using easy access hardware and software.
-
-We will need:
-* 1 x Arduino Board [here](https://user-images.githubusercontent.com/101861606/167063696-1d75e019-7662-4f53-a196-f0e64e2494af.png)
-* 1 x Breadboard [here](https://user-images.githubusercontent.com/101861606/167063735-be17ebe5-b8c8-402c-8f42-9a4bb95ed988.png)
-* 1 x Liquid Crystal Displays (LCDs) [here](https://user-images.githubusercontent.com/101861606/167063832-8c977ff7-4ff4-496c-85d3-3794f7653f5d.png)
-* 1 x Heart Rate Sensor (KY-039 HEARTBEAT SENSOR) [here](https://user-images.githubusercontent.com/101861606/167064179-56b39b94-0df6-45ed-b9ce-6df8e27ada62.png)
-* 1 x Windows or MAC Computer
-* 10 x Wires
+    2.2 MAC OS X
+    
+4. Running Code
 
 
 ## SETTING UP ARDUINO
@@ -67,71 +54,13 @@ Note: If the application has a pop up warning just run the application :D
 <img src="https://user-images.githubusercontent.com/101861606/167062987-79732734-2412-4932-bdb5-fa844aaf3157.png" width="500"/>
 
 
-## Understanding The Components
-
-### Arduino Board
-This is a basic arduino board.
-
-Power and Ground pins:
-
-Analogue pins:
-
-Digital pins:
-
-<img src="https://user-images.githubusercontent.com/101861606/167796552-cd00827c-0f71-4a00-9d09-5cc2cc3ceb93.png" width="500"/>
-
-
-
-### Breadboard
-
-Horizontals: The horisonal pin holes are all connected and can be seen as nodes in a circuit.
-
-<img src="https://user-images.githubusercontent.com/101861606/167795669-86081d6f-e1cc-4860-848f-cf7a426ebd3e.png" width="500"/>
-
-Verticals: The vertical pin holes are all connected and are usually used for power supply and ground.
-
-<img src="https://user-images.githubusercontent.com/101861606/167795917-436a46da-bda5-4dad-bad1-492565bae441.png" width="500"/>
-
-
-
-### Liquid Crystal Displays
-<img src="https://user-images.githubusercontent.com/101861606/167778638-60ffabc2-c500-4e69-a027-38ba55070f80.png" width="500"/>
-
-Pins:  
-1: Ground  
-2: Voltage in  
-3: Brightness control  
-4: Register select pin  
-5: Read/Write pin  
-6: Enable pin  
-7-14: Paralle Data Pins  
-15: Anode  
-16: Cathod  
-
-
-### Heart Rate Sensor (KY-039 HEARTBEAT SENSOR)
-
-Below is an image of the type of heart sensor we will be using today. There are better vairents of this device, however, they are more expensive as they produce more precise and accurate data and overall use higher quality material. For this workshop, it is enough to understand the basics of how this device works.
-
-<img src="https://user-images.githubusercontent.com/101861606/167776655-0c83e0f9-67fc-4b1c-8dea-c31e38481e8d.png" width="500"/>
-
-The internal schematic of the device is shown below
-
-<img src="https://user-images.githubusercontent.com/101861606/167792947-21fc6721-8a22-413e-9a49-fa9bcfcd2bcd.png" width="500"/>
-
-The Infrared LED emits infrared light which will be captured by the photo diode across. Blood pulsating in the arteries of your finger are much more susceptible in absorbing infrared lights, hence when placing your finger between the two components the photo diode will only detect the lights that are not captured. These signals are then collected as anaolgue data which will be sent through the wire to the arduino board.
-
-
-
-## CODE
+## RUNNING CODE
 Note: make sure check tools -> board and port
 
-Basics on running code: Make sure the file is saved -> verify witht the tick at the top left hand corner -> upload the code to the arduino which is the arrow pointing to the right (next to the tick).
+Basics on running code: Make sure the file is saved -> verify with the tick at the top left hand corner -> upload the code to the arduino which is the arrow pointing to the right (next to the tick).
 
 
-
-
-## Sources used
+## Helpful Resources
 Arduino Syntax: http://engineering.nyu.edu/gk12/amps-cbri/pdf/ArduinoBooks/Arduino%20Programming%20Notebook.pdf
 Arduino Basics: 
 * https://www.youtube.com/watch?v=nL34zDTPkcs
@@ -142,8 +71,3 @@ Breadboard: https://computers.tutsplus.com/tutorials/how-to-use-a-breadboard-and
 LCD: https://www.youtube.com/watch?v=wEbGhYjn4QI
 
 Heart sensor: https://electropeak.com/learn/interfacing-ky-039-finger-heartbeat-measuring-sensor-module-with-arduino/#:~:text=Step%202%3A%20Code-,KY%2D039%20Heartbeat%20Sensor%20Module%20Features,through%20the%20analog%20output%20pin.
-
-
-
-
-
