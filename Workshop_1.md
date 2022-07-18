@@ -48,15 +48,17 @@ Helpful command line commands:
 
 4. Type ```python3 -m venv ./venv``` and hit enter to create the virtual environment. This should take less than 2 minutes.
 
+**If on Windows Command Prompt type:** ```python -m venv ./venv```
+
 &nbsp;
 
 
 5. Activate the virtual environment 
 
 
-**Powershell (Windows):** ```Scripts\venv\Activate.ps1```
+**Powershell (Windows):** ```venv\Scripts\Activate.ps1```
 
-**Command Prompt (Windows):** ```Scripts\venv\activate.bat```
+**Command Prompt (Windows):** ```venv\Scripts\activate.bat```
 
 **Terminal (Mac):** ```source venv/bin/activate```
 
@@ -75,7 +77,7 @@ If you want to exit the virtual environment simply type ```deactivate```
 
 7. Install the required packages
 
-Download the [requirements.txt](./Workshop_1/requirements.txt) file and save it in the "MYMI_Workshop_2" folder
+Download the [requirements.txt](./Workshop_1/requirements.txt) file and save it in the "MYMI_Workshop_1" folder
 
 Type ```pip install -r requirements.txt``` in your command line program.
 
